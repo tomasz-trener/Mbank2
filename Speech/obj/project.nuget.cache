@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+WvkTje9tw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lest\\Desktop\\New folder\\Speech\\Speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lest\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.41.1\\microsoft.cognitiveservices.speech.1.41.1.nupkg.sha512"
+  ],
+  "logs": []
+}
