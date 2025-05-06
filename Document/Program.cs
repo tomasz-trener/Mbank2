@@ -10,7 +10,7 @@ namespace P06DocumentIntelligence
         static async Task Main(string[] args)
         {
             string key = "";
-            string endpoint = "https://document01012.cognitiveservices.azure.com/";
+            string endpoint = "";
 
             DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), new AzureKeyCredential(key));
 
